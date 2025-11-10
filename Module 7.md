@@ -213,13 +213,13 @@ int main()
 ## Output:
 
 
-<img width="775" height="375" alt="image" src="https://github.com/user-attachments/assets/f52bbeb2-cdb9-4d05-ae33-22cdf98ac88e" />
+<img width="775" height="375" alt="image" src="https://github.com/user-attachments/assets/f52bbeb2-cdb9-4d05-ae33-22cdf98ac88e"/>
 
 
 
 
 ## Result:
-    Thus, the program is verified successfully
+   Thus, the program is verified successfully
 
 
 
